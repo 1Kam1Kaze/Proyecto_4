@@ -1,0 +1,167 @@
+ID,Nombre,Marca,Categoría,Subcategoría,Precio,Existencias iniciales
+1,Coca Cola 250ml,Coca Cola,Líquidos,Gaseosas,1024,15
+2,Coca Cola 350ml,Coca Cola,Líquidos,Gaseosas,1570,31
+3,Coca Cola 500ml,Coca Cola,Líquidos,Gaseosas,4263,35
+4,Coca Cola 1L,Coca Cola,Líquidos,Gaseosas,1082,37
+5,Coca Cola 1.5L,Coca Cola,Líquidos,Gaseosas,3398,19
+6,Coca Cola 2L,Coca Cola,Líquidos,Gaseosas,4005,9
+7,Pepsi 250ml,Pepsi,Líquidos,Gaseosas,2305,1
+8,Pepsi 350ml,Pepsi,Líquidos,Gaseosas,3617,47
+9,Pepsi 500ml,Pepsi,Líquidos,Gaseosas,1007,52
+10,Pepsi 1L,Pepsi,Líquidos,Gaseosas,4148,37
+11,Pepsi 2L,Pepsi,Líquidos,Gaseosas,590,44
+12,Fanta 350ml,Fanta,Líquidos,Gaseosas,1157,21
+13,Fanta 500ml,Fanta,Líquidos,Gaseosas,1931,61
+14,Fanta 1L,Fanta,Líquidos,Gaseosas,2645,31
+15,Fanta 1.5L,Fanta,Líquidos,Gaseosas,1485,10
+16,Sprite 350ml,Sprite,Líquidos,Gaseosas,2721,27
+17,Sprite 500ml,Sprite,Líquidos,Gaseosas,2240,50
+18,Sprite 1.5L,Sprite,Líquidos,Gaseosas,639,46
+19,Sprite 2L,Sprite,Líquidos,Gaseosas,2699,1
+20,7Up 350ml,7Up,Líquidos,Gaseosas,1760,34
+21,7Up 500ml,7Up,Líquidos,Gaseosas,2267,31
+22,7Up 1.5L,7Up,Líquidos,Gaseosas,585,15
+23,7Up 2L,7Up,Líquidos,Gaseosas,1462,45
+24,Bilz 350ml,Bilz,Líquidos,Gaseosas,2868,12
+25,Bilz 500ml,Bilz,Líquidos,Gaseosas,4265,5
+26,Bilz 1.5L,Bilz,Líquidos,Gaseosas,4321,31
+27,Pap 350ml,Pap,Líquidos,Gaseosas,3556,60
+28,Pap 500ml,Pap,Líquidos,Gaseosas,4899,49
+29,Pap 1.5L,Pap,Líquidos,Gaseosas,4201,49
+30,Benedictino 330ml,Benedictino,Líquidos,Agua,3154,58
+31,Benedictino 500ml,Benedictino,Líquidos,Agua,3515,13
+32,Benedictino 1L,Benedictino,Líquidos,Agua,1969,62
+33,Benedictino 1.5L,Benedictino,Líquidos,Agua,3890,1
+34,Benedictino 2L,Benedictino,Líquidos,Agua,3087,17
+35,Cachantun 330ml,Cachantun,Líquidos,Agua,1631,24
+36,Cachantun 500ml,Cachantun,Líquidos,Agua,3737,3
+37,Cachantun 1L,Cachantun,Líquidos,Agua,1477,30
+38,Cachantun 1.5L,Cachantun,Líquidos,Agua,2399,1
+39,Cachantun 2L,Cachantun,Líquidos,Agua,1802,22
+40,Andina del Valle 500ml,Andina del Valle,Líquidos,Agua,3370,16
+41,Andina del Valle 1.5L,Andina del Valle,Líquidos,Agua,4769,17
+42,Vital 330ml,Vital,Líquidos,Agua,1620,8
+43,Vital 500ml,Vital,Líquidos,Agua,4129,60
+44,Vital 1L,Vital,Líquidos,Agua,4944,2
+45,Vital 1.5L,Vital,Líquidos,Agua,1327,31
+46,Watts 200ml,Watts,Líquidos,Jugos,3142,9
+47,Watts 300ml,Watts,Líquidos,Jugos,4875,29
+48,Watts 500ml,Watts,Líquidos,Jugos,569,51
+49,Watts 1L,Watts,Líquidos,Jugos,4887,56
+50,Andina 200ml,Andina,Líquidos,Jugos,2688,27
+51,Andina 500ml,Andina,Líquidos,Jugos,1259,29
+52,Andina 1L,Andina,Líquidos,Jugos,3701,15
+53,Del Valle 300ml,Del Valle,Líquidos,Jugos,4483,29
+54,Del Valle 500ml,Del Valle,Líquidos,Jugos,1700,6
+55,Del Valle 1L,Del Valle,Líquidos,Jugos,2189,30
+56,Livean 200ml,Livean,Líquidos,Jugos,872,35
+57,Livean 400ml,Livean,Líquidos,Jugos,2382,15
+58,Livean 1L,Livean,Líquidos,Jugos,4509,59
+59,Red Bull 250ml,Red Bull,Líquidos,Energéticas,3008,32
+60,Red Bull 355ml,Red Bull,Líquidos,Energéticas,1309,55
+61,Red Bull 473ml,Red Bull,Líquidos,Energéticas,4554,47
+62,Monster 355ml,Monster,Líquidos,Energéticas,1758,13
+63,Monster 473ml,Monster,Líquidos,Energéticas,846,29
+64,Monster 550ml,Monster,Líquidos,Energéticas,2000,15
+65,Volt 350ml,Volt,Líquidos,Energéticas,2577,54
+66,Volt 500ml,Volt,Líquidos,Energéticas,928,6
+67,Score 350ml,Score,Líquidos,Energéticas,1962,60
+68,Score 500ml,Score,Líquidos,Energéticas,3004,56
+69,Nescafé 200ml,Nescafé,Líquidos,Café/Té,4603,22
+70,Nescafé Botella 1u,Nescafé,Líquidos,Café/Té,4510,14
+71,Ramen Pollo Picante Maruchan 64Gr,Maruchan,Líquidos,Sopa,3677,30
+72,Ramen Carne de Res Maruchan 64Gr,Maruchan,Líquidos,Sopa,1366,55
+73,Lipton Té Helado 500ml,Lipton,Líquidos,Café/Té,3695,18
+74,Lipton 1.5L,Lipton,Líquidos,Café/Té,4232,16
+75,Nestea 500ml,Nestea,Líquidos,Café/Té,4441,6
+76,Nestea 1.5L,Nestea,Líquidos,Café/Té,3846,39
+77,Lays 40g,Lays,Snacks,Papas fritas,2940,48
+78,Lays 80g,Lays,Snacks,Papas fritas,2311,39
+79,Lays 150g,Lays,Snacks,Papas fritas,4026,43
+80,Doritos 45g,Doritos,Snacks,Papas fritas,3272,6
+81,Doritos 90g,Doritos,Snacks,Papas fritas,4226,1
+82,Doritos 150g,Doritos,Snacks,Papas fritas,4888,58
+83,Pringles 40g,Pringles,Snacks,Papas fritas,3448,41
+84,Pringles 124g,Pringles,Snacks,Papas fritas,2634,28
+85,Ruffles 45g,Ruffles,Snacks,Papas fritas,3475,25
+86,Ruffles 90g,Ruffles,Snacks,Papas fritas,610,27
+87,Ruffles 150g,Ruffles,Snacks,Papas fritas,868,62
+88,Oreo 36g,Oreo,Snacks,Galletas,855,10
+89,Oreo 108g,Oreo,Snacks,Galletas,3321,24
+90,Oreo 432g,Oreo,Snacks,Galletas,2731,23
+91,Costa 120g,Costa,Snacks,Galletas,2145,26
+92,Costa 200g,Costa,Snacks,Galletas,1367,38
+93,Costa 400g,Costa,Snacks,Galletas,1755,26
+94,Tronky Paquete 6u,Tronky,Snacks,Galletas,1412,13
+95,Trencito 100g,Trencito,Snacks,Galletas,4581,39
+96,Trencito 200g,Trencito,Snacks,Galletas,4533,34
+97,Sahne-Nuss 40g,Sahne-Nuss,Snacks,Chocolates,822,11
+98,Sahne-Nuss 100g,Sahne-Nuss,Snacks,Chocolates,4474,51
+99,Super8 30g,Super8,Snacks,Chocolates,768,11
+100,Super8 Pack 3u,Super8,Snacks,Chocolates,652,52
+101,Sublime 30g,Sublime,Snacks,Chocolates,825,35
+102,Sublime 100g,Sublime,Snacks,Chocolates,2826,9
+103,M&Ms 40g,M&Ms,Snacks,Chocolates,4337,41
+104,M&Ms 100g,M&Ms,Snacks,Chocolates,3353,5
+105,M&Ms 200g,M&Ms,Snacks,Chocolates,4359,31
+106,Frugelé Paquete 20u,Frugelé,Snacks,Dulces,3021,56
+107,Sugus Paquete 30u,Sugus,Snacks,Dulces,2326,45
+108,Mentitas Bolsa 50g,Mentitas,Snacks,Dulces,1448,51
+109,Caramelos Bolsa 100g,Caramelos,Snacks,Dulces,601,54
+110,Hallulla Unidad,Hallulla,Panadería,Pan corriente,1795,24
+111,Hallulla Kg,Hallulla,Panadería,Pan corriente,1477,2
+112,Marraqueta Unidad,Marraqueta,Panadería,Pan corriente,1628,52
+113,Marraqueta Kg,Marraqueta,Panadería,Pan corriente,3461,58
+114,Molde Paquete chico,Molde,Panadería,Pan corriente,1895,9
+115,Molde Paquete grande,Molde,Panadería,Pan corriente,2928,12
+116,Baguette Unidad,Baguette,Panadería,Pan corriente,1299,16
+117,Croissant Unidad,Croissant,Panadería,Bollería,555,47
+118,Berlín Unidad,Berlín,Panadería,Bollería,2640,61
+119,Donuts Unidad,Donuts,Panadería,Bollería,4812,13
+120,Empanada de queso Unidad,Empanada de queso,Panadería,Bollería,3714,63
+121,Torta Porción,Torta,Panadería,Pasteles,548,35
+122,Torta Entera,Torta,Panadería,Pasteles,1574,18
+123,Kuchen Porción,Kuchen,Panadería,Pasteles,4126,42
+124,Kuchen Entero,Kuchen,Panadería,Pasteles,2651,36
+125,Queque Unidad,Queque,Panadería,Pasteles,2647,32
+126,Queque Medio kilo,Queque,Panadería,Pasteles,1564,13
+127,Colun 200ml,Colun,Lácteos,Leche,1762,15
+128,Colun 1L,Colun,Lácteos,Leche,2342,13
+129,Soprole 200ml,Soprole,Lácteos,Leche,4892,6
+130,Soprole 1L,Soprole,Lácteos,Leche,2183,12
+131,Nestlé 200ml,Nestlé,Lácteos,Leche,1153,38
+132,Nestlé 1L,Nestlé,Lácteos,Leche,4454,24
+133,Colun 125g,Colun,Lácteos,Yogurt,1152,47
+134,Colun 1L,Colun,Lácteos,Yogurt,3442,48
+135,Soprole 125g,Soprole,Lácteos,Yogurt,2150,13
+136,Soprole 1L,Soprole,Lácteos,Yogurt,896,30
+137,Danone 125g,Danone,Lácteos,Yogurt,658,24
+138,Danone 1L,Danone,Lácteos,Yogurt,4486,13
+139,Gauda 250g,Gauda,Lácteos,Quesos,1534,56
+140,Gauda 500g,Gauda,Lácteos,Quesos,2694,1
+141,Gauda 1Kg,Gauda,Lácteos,Quesos,4023,27
+142,Chanco 250g,Chanco,Lácteos,Quesos,3138,58
+143,Chanco 500g,Chanco,Lácteos,Quesos,2720,22
+144,Rallado 100g,Rallado,Lácteos,Quesos,2639,2
+145,Rallado 200g,Rallado,Lácteos,Quesos,1931,47
+146,Savory Paleta,Savory,Otros,Helados,1940,22
+147,Savory Litro,Savory,Otros,Helados,3404,6
+148,Nestlé Paleta,Nestlé,Otros,Helados,3517,8
+149,Nestlé Litro,Nestlé,Otros,Helados,3011,2
+150,Fruna Paleta,Fruna,Otros,Helados,629,35
+151,Arroz Tucapel 1Kg,Arroz Tucapel,Otros,Abarrotes,1279,63
+152,Arroz Tucapel 2Kg,Arroz Tucapel,Otros,Abarrotes,1648,3
+153,Fideos Lucchetti 400g,Fideos Lucchetti,Otros,Abarrotes,1624,40
+154,Fideos Lucchetti 1Kg,Fideos Lucchetti,Otros,Abarrotes,4024,62
+155,Azúcar Iansa 1Kg,Azúcar Iansa,Otros,Abarrotes,4395,32
+156,Azúcar Iansa 2Kg,Azúcar Iansa,Otros,Abarrotes,3853,14
+157,Aceite Natura 1L,Aceite Natura,Otros,Abarrotes,1302,10
+158,Aceite Natura 5L,Aceite Natura,Otros,Abarrotes,2638,61
+159,Colgate Pasta 90g,Colgate,Otros,Aseo,3997,58
+160,Colgate Pasta 180g,Colgate,Otros,Aseo,2152,25
+161,Comfort Rollo doble,Comfort,Otros,Aseo,2807,58
+162,Comfort Rollo jumbo,Comfort,Otros,Aseo,1285,24
+163,Elite Caja pañuelos,Elite,Otros,Aseo,855,40
+164,Elite Servilletas 100u,Elite,Otros,Aseo,1921,23
+165,Nivea Crema 100ml,Nivea,Otros,Aseo,2122,42
+166,Nivea Crema 200ml,Nivea,Otros,Aseo,4430,53
